@@ -2,6 +2,7 @@
 	
 	git clone https://github.com/shrimaliakash/WordPress-Setup.git
 2.	Rename folder to wordpress using following command
+
 	mv WordPress-Setup wordpress
 3.	Create one database called wordpress in phpMyadmin
 4.	open wordpress.sql file and paste all data in phpMyadmin under wordpress database.
