@@ -9,7 +9,9 @@
 5.	open http://localhost/wordpress/  on browser for ui.
 6.	open http://localhost/wordpress/wp-login on browser for admin side.
 	After that enter following Username and Password to access project Admin Panel.
+	
 	Username=		admin
+	
 	Password=		PiwCuJ3tpDAjk(glpX
 
 Thank you.
