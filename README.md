@@ -11,7 +11,6 @@
 	After that enter following Username and Password to access project Admin Panel.
 	
 	Username=		admin
-	
 	Password=		PiwCuJ3tpDAjk(glpX
 
 Thank you.
