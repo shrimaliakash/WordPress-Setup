@@ -1,0 +1,253 @@
+= 1.6.6 =
+ * ADDED: Author and Theme URI
+
+= 1.6.5 =
+ * ADDED: WordPress 5.7 Tested
+
+= 1.6.4 =
+ * FIXED: WooCommerce Cart Update Button
+
+= 1.6.3 =
+ * ADDED: WordPress 5.6 Tested
+ * ADDED: Theme Screenshot
+ * REMOVED: Theme Screenshot
+
+= 1.6.2 =
+ * ADDED: Gutenberg Plugin
+ * ADDED: WordPress 5.6 (RC) Tested
+
+= 1.6.1 - November 01 2020 =
+ * FIXED: Customizer Options Panel Text
+
+= 1.6.0 - October 18 2020 =
+ * FIXED: Customizer Options Panel CSS
+
+= 1.5.9 - September 12 2020 =
+ * FIXED: WooCommerce 4.5
+ * UPDATED: WooCommerce template files.
+ * UPDATED: Remove deprecated functions.
+
+= 1.5.8 - August 21 2020 =
+ * ADDED: WordPress 5.5 Notice
+
+= 1.5.7 - August 12 2020 =
+ * FIXED: WordPress 5.5 Compatible
+
+= 1.5.6 - August 07 2020 =
+ * ADDED: Plugin Recommendation
+ * REMOVED: Unwanted codes
+
+= 1.5.5 - August 01 2020 =
+ * ADDED: Page Cover Photo Image
+ * FIXED: Theme color CSS
+
+= 1.5.4 - July 14 2020 =
+ * FIXED: Theme color CSS
+
+= 1.5.3 - June 29 2020 =
+ * FIXED: Theme color CSS
+
+= 1.5.2 - June 08 2020 =
+ * ADDED: Theme description
+ * ADDED: Gredienta on Theme Option
+ * FIXED: Theme URI
+
+= 1.5.1 - May 24 2020 =
+ * FIXED: CSS Issue
+
+= 1.5.0 - May 10 2020 =
+ * NEW: Design/Code Changes
+ * NEW: Body background settings
+ * NEW: Forked from Customify theme
+ * IMPROVED: Styling config
+ * FIXED: post type layout issue
+
+= 1.4.9 - April 07 2020 =
+ * WordPress 5.4 Compatible
+
+= 1.4.8 - February 26 2020 =
+ * Change theme URI. Will added later.
+
+= 1.4.7 - January 26 2020 =
+ * Owner Changed
+ * Pro features added
+
+= 1.4.6 - January 05 2020 =
+ * Fixed Post CSS Issue
+
+= 1.4.5 - November 27 2019 =
+ * Fixed Widget CSS Issue
+
+= 1.4.4 - November 11 2019 =
+ * Fixed CSS Issue
+ * Remove LS Cache plugin from TGM
+
+= 1.4.3 - October 30 2019 =
+ * Added Review Doc and Pro button
+
+= 1.4.2 - October 29 2019 =
+ * Change Ubuntu font to Nunito
+
+= 1.4.1 - October 28 2019 =
+ * Fixed CSS Bugs
+ * Menu bug Fixed
+ * Adding Pro announcement
+
+= 1.4.0 - October 02 2019 =
+ * Fixed CSS Bugs
+ * Menu bug Fixed
+
+= 1.3.9 - September 17 2019 =
+ * Fixed CSS Bugs
+
+= 1.3.8 - September 12 2019 =
+ * Fixed CSS Bugs
+ * Change header and footer background color
+
+= 1.3.7 - September 06 2019 =
+ * Removed Post and Page animation
+ * Fix Post and Page radius issue
+
+= 1.3.6 - August 30 2019 =
+ * Fixed CSS Bugs
+
+= 1.3.5 - August 07 2019 =
+ * Accessibility feature added
+ * Change theme font Ubuntu to Montserrat
+ * Drop plugins from TGM
+ * Fix CSS Bugs
+
+= 1.3.4 - July 23 2019 =
+ * Fixed CSS Bugs
+ * Fixed Gutenberg issue
+
+= 1.3.3 - July 07 2019 =
+ * Fixed CSS Bugs
+ * Change sidebar col 3 to 4
+
+= 1.3.2 - July 03 2019 =
+ * Fixed CSS Bugs
+
+= 1.3.1 - June 30 2019 =
+ * Fixed CSS Bugs
+
+= 1.3.0 - June 14 2019 =
+ * Fixed CSS bugs
+ * Fixed Page Thumbnail bug
+ * Fixed Submenu
+ * Header Footer and, Button background color change
+ * Feature Image size removed
+ * Screenshot changed
+
+= 1.2.9 - May 31 2019 =
+ * Fixed overflow issue
+ * Fixed CSS bugs
+
+= 1.2.8 - May 14 2019 =
+ * Fixed responsive issue
+ * Fixed Bootstrap issue
+
+= 1.2.7 - May 01 2019 =
+ * RTL Support
+ * Fixed known CSS bugs
+
+= 1.2.6 - April 09 2019 =
+ * Fixed article page/post page CSS bug
+ * Fixed Featured image size
+
+= 1.2.5 - April 04 2019 =
+ * WP Page Builder broken link fix
+ * Clearing Floats CSS fixed
+ * Known CSS fix
+
+= 1.2.4 - April 02 2019 =
+ * Header Menu Bug Fixed
+
+= 1.2.3 - April 02 2019 =
+ * Adding WP Page Builder and Qubely Plugins (User's choice)
+ * Fixed Known CSS Bugs
+ * Remove Bootstrap Menu
+ * Adding Github Social Option
+
+= 1.2.2 - March 30 2019 =
+ * Removed Unwanted Plugins (users does not liked to use that)
+ * Fixed Known Issue Bugs
+
+= 1.2.1 - March 18 2019 =
+ * Removed Max Mega Menu
+ * Adding Bootstrap Nav
+
+= 1.2.0 - March 15 2019 =
+ * Adding Max Mega Menu
+ * Adding TGM Feature
+ * Adding Donation Link in readme.txt
+ * Remove My Plugin Manager
+ * Fixed Bootstrap JS issue
+ * Fixed known Bugs
+
+= 1.1.5 - March 06 2019 =
+ * Screenshot changed
+ * Added Qubely Support
+ * Added Rhino Portfolio plugin
+
+= 1.1.4 - February 19 2019 =
+ * Added theme description
+
+= 1.1.3 - February 18 2019 =
+ * Fixed text domain issue
+
+= 1.1.2 - February 17 2019 =
+ * Fixed Readme.txt issue
+
+= 1.1.1 - February 16 2019 =
+ * Added a new Screenshot
+ * Added No Sidebar Page Template
+ * Added Hide Title option on the Post and Page
+ * Fixed Social Icon CSS Bug
+ * Fixed Logo CSS Redius
+ * Change Font "Lora" to "Ubuntu"
+ * Remove Ninja Gutenberg Blocks by GutenDev Plugin
+ * Remove Guten Post Layout by GutenDev plugin
+
+= 1.1.0 - February 10 2019 =
+ * Removed unused codes
+
+= 1.0.9 - February 10 2019 =
+ * Theme URI removed.
+
+= 1.0.8 - February 10 2019 =
+ * Screenshot, logo changed (previous unicorn logo removed)
+
+= 1.0.7 - February 10 2019 =
+ * POT file added
+ * Fixed some CSS bug
+ * Added Instagram Social option
+ * Added Youtube option
+ * Remove Google Plus Social option
+ * Modify screenshot
+
+= 1.0.6 - February 09 2019 =
+ * Remove Max Mega Menu feature
+ * Added simple menu
+
+= 1.0.5 - February 04 2019 =
+ * Added missing license information on the readme.txt
+
+= 1.0.4 - February 04 2019 =
+ * Added license information on the readme.txt
+
+= 1.0.3 - February 04 2019 =
+ * Screenshot updated
+ * Menu desktop and mobile background bug fix
+
+= 1.0.2 - January 30 2019 =
+ * Max Mega Menu plugin support
+ * Jetpack by Automattic
+ * Gutenberg Plugin
+ * Screenshot changed
+
+= 1.0.1 - December 06 2018 =
+ * Gutenberg Support
+
+= 1.0.0 - November 01 2018 =
+ * Initial release
